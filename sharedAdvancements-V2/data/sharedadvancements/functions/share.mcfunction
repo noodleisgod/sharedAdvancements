@@ -89,3 +89,7 @@ execute as @a[advancements={minecraft:story/root=true}] run advancement grant @a
 execute as @a[advancements={minecraft:story/shiny_gear=true}] run advancement grant @a[advancements={minecraft:story/shiny_gear=false}] only minecraft:story/shiny_gear
 execute as @a[advancements={minecraft:story/smelt_iron=true}] run advancement grant @a[advancements={minecraft:story/smelt_iron=false}] only minecraft:story/smelt_iron
 execute as @a[advancements={minecraft:story/upgrade_tools=true}] run advancement grant @a[advancements={minecraft:story/upgrade_tools=false}] only minecraft:story/upgrade_tools
+execute as @a[advancements={minecraft:adventure/fall_from_world_height=true}] run advancement grant @a[advancements={minecraft:adventure/fall_from_world_height=false}] only minecraft:adventure/fall_from_world_height
+execute as @a[advancements={minecraft:adventure/trade_at_world_height=true}] run advancement grant @a[advancements={minecraft:adventure/trade_at_world_height=false}] only minecraft:adventure/trade_at_world_height
+execute as @a[advancements={minecraft:adventure/play_jukebox_in_meadows=true}] run advancement grant @a[advancements={minecraft:adventure/play_jukebox_in_meadows=false}] only minecraft:adventure/play_jukebox_in_meadows
+execute as @a[advancements={minecraft:nether/ride_strider_in_overworld_lava=true}] run advancement grant @a[advancements={minecraft:nether/ride_strider_in_overworld_lava=false}] only minecraft:nether/ride_strider_in_overworld_lava
